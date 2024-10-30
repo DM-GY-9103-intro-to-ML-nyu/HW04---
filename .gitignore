@@ -4,3 +4,4 @@ solution*.wav
 *_utils.py
 !HW*_utils.py
 tmp.wav
+*.py.*
